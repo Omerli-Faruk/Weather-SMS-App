@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+</head>
+<body>
+
+<button id="smsButton" style="padding: 15px 20px; font-size: 16px; cursor: pointer;">
+    Send Location Informations
+</button>
+
+<script type="module">
+    import { sendLocationViaSMS } from './index.js';
+    document.getElementById('smsButton').addEventListener('click', sendLocationViaSMS);
+</script>
+</body>
+</html>
