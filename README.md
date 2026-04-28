@@ -72,9 +72,4 @@ To run this project, you will need to add the following variables to your `.env`
 `MY_PHONE_NUMBER` - The target phone number to receive the SMS.
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by Omer Faruk Avci**
