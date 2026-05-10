@@ -12,8 +12,8 @@
 </button>
 
 <script type="module">
-    import { sendLocationViaSMS } from './index.js';
-    document.getElementById('smsButton').addEventListener('click', sendLocationViaSMS);
+    import { handleWeatherSmsRequest } from './index';
+    document.getElementById('smsButton').addEventListener('click', handleWeatherSmsRequest);
 </script>
 </body>
 </html>
