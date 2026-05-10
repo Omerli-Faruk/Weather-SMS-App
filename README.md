@@ -35,7 +35,7 @@ This project evolved from a simple vanilla JavaScript script into a modern, type
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/weather-sms-app.git](https://github.com/YOUR_USERNAME/weather-sms-app.git)
+    git clone [https://github.com/Omerli-Faruk/Weather-SMS-App](https://github.com/Omerli-Faruk/Weather-SMS-App)
     cd weather-sms-app
     ```
 
@@ -54,13 +54,14 @@ This project evolved from a simple vanilla JavaScript script into a modern, type
     MY_PHONE_NUMBER=your_personal_phone_number_here
     ```
 
-4.  **Run the Application (Dual-Process):**
-    You need to run the backend and frontend simultaneously. Open two separate terminals:
+4. **Run the Application (Dual-Process):** You need to run the backend and frontend simultaneously. Open two separate terminals:
 
-    * **Terminal 1 (Backend):** ```bash
+    * **Terminal 1 (Backend):**
+      ```bash
       npx ts-node app.ts
       ```
-    * **Terminal 2 (Frontend):** ```bash
+    * **Terminal 2 (Frontend):**
+      ```bash
       npx vite
       ```
 
