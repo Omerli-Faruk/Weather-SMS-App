@@ -35,7 +35,8 @@ This project evolved from a simple vanilla JavaScript script into a modern, type
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Omerli-Faruk/Weather-SMS-App](https://github.com/Omerli-Faruk/Weather-SMS-App)
+    git clone https://github.com/Omerli-Faruk/Weather-SMS-App.git
+    
     cd weather-sms-app
     ```
 
